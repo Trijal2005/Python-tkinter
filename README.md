@@ -25,11 +25,11 @@ This repository contains Python projects built using the `tkinter` library for c
    - A simple interface for viewing images.
    - Navigation options for moving between images.
 ## Output Images
-1. **XO(Tic-Tac-Toe)**
+1. **XO(Tic-Tac-Toe)\n**
 ![image](https://github.com/user-attachments/assets/9a1ad498-7205-4305-a648-dd038aa11773)
 ![image](https://github.com/user-attachments/assets/a9b96154-8dd6-4d69-8fba-c94738acda22)
 
-2. **Gallery**
+2. **Gallery\n**
 ![image](https://github.com/user-attachments/assets/e98b0a57-65b5-4c7f-9a6c-340ac99c7d3e)
 ![image](https://github.com/user-attachments/assets/1c2b1cf8-7bf5-4939-874d-d92825c9a2a0)
 
